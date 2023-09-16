@@ -1,0 +1,27 @@
+h1{
+    font-family:"black ops one",sans-serif ;
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url(musicphoto.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+#song{
+    color: black;
+    
+    font-family: "consolas", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    
+    padding-left: 5px;
+    background: rgba(76, 175,80, o.1);
+    margin: 3px;
+    background-color: #fff;
+    opacity: 0.6; 
+    
+}
